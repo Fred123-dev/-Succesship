@@ -1,4 +1,4 @@
-#CRUD Application - Flask
+# CRUD Application - Flask
 
 This is a Flask-based RESTful CRUD application that demonstrates how to manage records with advanced features.
 
